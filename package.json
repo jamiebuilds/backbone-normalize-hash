@@ -1,0 +1,22 @@
+{
+  "name": "backbone-normalize-hash",
+  "version": "1.0.0",
+  "description": "Normalize hashes for backbone",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thejameskyle/backbone-normalize-hash.git"
+  },
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejameskyle/backbone-normalize-hash/issues"
+  },
+  "homepage": "https://github.com/thejameskyle/backbone-normalize-hash",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
